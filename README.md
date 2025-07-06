@@ -12,5 +12,4 @@ Drag and drop the 2 scripts and shader anywhere within the Project menu of your 
 Assign AnisotropicKuwaharaRenderFeature.cs to your Universal Renderer Data Inspector.
 
 # Example
-![Screenshot 2025-07-05 221728](https://github.com/user-attachments/assets/eb243f50-e751-4043-bf50-24238db9711f)
-
+![Screenshot 2025-07-05 222346](https://github.com/user-attachments/assets/4ea8f12b-56e2-4766-908e-65e8bf0cc40d)
