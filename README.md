@@ -8,7 +8,9 @@ The implementation is based around the Scriptable Render Pipeline and Renderer F
 
 # Installation
 Clone repository or download as .zip.
+
 Drag and drop the 2 scripts and shader anywhere within the Project menu of your project.
+
 Assign AnisotropicKuwaharaRenderFeature.cs to your Universal Renderer Data Inspector.
 
 # Example
